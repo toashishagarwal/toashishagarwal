@@ -46,9 +46,9 @@ This repository is a collection of model architectures for commmon business use 
 
 💬 Ask me about Vector Databases, RAG, Apache NiFi, Apache Kafka, Apache Iceberg, Cloud Native Data, Spark, Snowflake, LLMs
 
-📫 Connect With Me <br>
-[LinkedIn](https://www.linkedin.com/in/toashishagarwal15/) <br>
-[Medium](https://toashishagarwal.medium.com/) <br>
+📫 Connect With Me <br> <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toashishagarwal15) <br>
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://toashishagarwal.medium.com/)
 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=toashishagarwal&show_icons=true&theme=transparent)
