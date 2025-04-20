@@ -3,15 +3,12 @@
 I am a Software Engineer specializing in Java, Spring Boot, and cloud-native architectures. I'm passionate about building scalable microservices and exploring new technologies.
 I am an experienced data engineer with 21 years of experience who started building softwares for enterprise customers then worked on cloud-native apps. 
 
-
-
-
 🔭 What I Do
 
-Enterprise application development using Java and Spring ecosystem
-Microservices architecture design and implementation
-Cloud-native application development
-Performance optimization, JVM tuning and system design
+1. Enterprise application development using Java, AI and Spring ecosystem <br>
+2. Microservices architecture design and implementation <br>
+3. Cloud-native application development <br>
+4. Performance optimization, JVM tuning and system design <br>
 
 💻 Tech Stack
 
@@ -53,6 +50,5 @@ This repository is a collection of model architectures for commmon business use 
 [LinkedIn](https://www.linkedin.com/in/toashishagarwal15/) <br>
 [Medium](https://toashishagarwal.medium.com/) <br>
 
-📊 GitHub Stats
-Show Image
-Show Image
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=toashishagarwal&show_icons=true&theme=radical)
