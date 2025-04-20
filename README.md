@@ -51,4 +51,4 @@ This repository is a collection of model architectures for commmon business use 
 [Medium](https://toashishagarwal.medium.com/) <br>
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=toashishagarwal&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=toashishagarwal&show_icons=true&theme=transparent)
