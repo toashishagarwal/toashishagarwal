@@ -1,11 +1,11 @@
 ## Hi there, I'm Ashish Agarwal 👋
 
-I am a Software Engineer specializing in Java, Spring Boot, and cloud-native architectures. I'm passionate about building scalable microservices and exploring new technologies.
+I am a Software Engineer specializing in Java, Python, Spring Boot, and cloud-native architectures. I'm passionate about building scalable microservices and exploring new technologies.
 I am an experienced data engineer with 21 years of experience who started building softwares for enterprise customers then worked on cloud-native apps. 
 
 🔭 What I Do
 
-1. Enterprise application development using Java, AI and Spring ecosystem <br>
+1. Enterprise application development using Java, Python, AI and Spring ecosystem <br>
 2. Microservices architecture design and implementation <br>
 3. Cloud-native application development <br>
 4. Performance optimization, JVM tuning and system design <br>
