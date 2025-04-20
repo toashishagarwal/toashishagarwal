@@ -21,23 +21,23 @@ Tools: Docker, Kubernetes, Salesforce, Terraform, Git, Maven <br>
 Other: Microservices, RESTful APIs, Distributed Systems
 
 🌱 Featured Projects
-1. Chatty - AI powered Genie to get SQL queries 
+1. **Chatty - AI powered Genie to get SQL queries**
 <br>A Streamlit application that provides Snowflake-compatible SQL transformed from English text [Code](https://github.com/toashishagarwal/Snowflake-AI) & [Medium post](https://toashishagarwal.medium.com/from-natural-language-to-sql-approaches-and-challenges-in-text2sql-d1252ff86321)
 
-2. AI- Finetuning
+2. **AI- Finetuning**
 <br>A set of working examples that demonstrate the steps involved in finetuning Large Language Models to suit your custom dataset <br>
 a) How is Fine-tuning done in Snowflake [Code](https://github.com/toashishagarwal/Snowflake-AI/tree/main/3%20Fine%20Tuning%20LLM%20Model) & [Medium post](https://toashishagarwal.medium.com/fine-tune-llm-model-using-snowflake-cortex-practical-use-case-5328a3f9038c) <br>
 b) How to Fine-tune LLM using PyTorch and LoRA algorithm [Code](https://github.com/toashishagarwal/DeepLearningPyTorch/blob/main/DemoFineTuningLLM.ipynb) & [Medium post](https://toashishagarwal.medium.com/how-to-fine-tune-a-llm-using-lora-5fdb6dea11a6)
 
-3. Machine Learning Algorithms<br>
+3. **Machine Learning Algorithms**<br>
 A portfolio of common business problems solved using modern Machine Learning Algorithms <br>
 a) Churn Predictor [Code](https://github.com/toashishagarwal/ML-Programs/tree/main/ChurnPredictor) <br>
 b) Customer Segmentation [Code](https://github.com/toashishagarwal/ML-Programs/tree/main/CustomerSegmentation)
 
-4. Real Time Ingestion Pipeline <br>
+4. **Real Time Ingestion Pipeline** <br>
 This project demonstrates the use of Kafka & Spark to ingest synthetically generated stock price data that goes to Kafka topic & is processed by Spark dataframes [Code](https://github.com/toashishagarwal/demoRealTimePipeline)
 
-5. Software Architectures <br>
+5. **Software Architectures** <br>
 This repository is a collection of model architectures for commmon business use cases [Code](https://github.com/toashishagarwal/ArchitectureDiagrams)
 
 🌱 I’m currently learning about Transformers, Attention mechanisms and other internals of LLMs
