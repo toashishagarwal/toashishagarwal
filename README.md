@@ -7,7 +7,7 @@ I am an experienced data engineer with 21 years of experience who started buildi
 
 1. Enterprise application development using Java, Python, AI and Spring ecosystem <br>
 2. Microservices architecture design and implementation <br>
-3. Cloud-native application development <br>
+3. Cloud-native application development & Data Enginering<br>
 4. Performance optimization, JVM tuning and system design <br>
 
 💻 Tech Stack
