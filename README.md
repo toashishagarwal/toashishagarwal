@@ -35,7 +35,8 @@ a) Churn Predictor [Code](https://github.com/toashishagarwal/ML-Programs/tree/ma
 b) Customer Segmentation [Code](https://github.com/toashishagarwal/ML-Programs/tree/main/CustomerSegmentation)
 
 4. **Real Time Ingestion Pipeline** <br>
-This project demonstrates the use of Kafka & Spark to ingest synthetically generated stock price data that goes to Kafka topic & is processed by Spark dataframes [Code](https://github.com/toashishagarwal/demoRealTimePipeline)
+a) Aggregation of STOCK prices -- This project demonstrates the use of Kafka & Spark to ingest synthetically generated stock price data that goes to Kafka topic & is processed by Spark dataframes [Code](https://github.com/toashishagarwal/demoRealTimePipeline)  <br>
+b) Automatic calculation of sales per customer as a real time pipeline using Snowflake Dynamic table [Code](https://github.com/toashishagarwal/Snowflake-AI/blob/main/SnowflakeETL_DynamicTables.sql)
 
 5. **Software Architectures** <br>
 This repository is a collection of model architectures for commmon business use cases [Code](https://github.com/toashishagarwal/ArchitectureDiagrams)
