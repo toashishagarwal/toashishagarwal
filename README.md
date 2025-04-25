@@ -22,7 +22,7 @@ Other: Microservices, RESTful APIs, Distributed Systems
 
 🌱 Featured Projects
 1. **Chatty - AI powered Genie to get SQL queries**
-<br>A Streamlit application that provides Snowflake-compatible SQL transformed from English text [Code](https://github.com/toashishagarwal/Snowflake-AI) & [Medium post](https://toashishagarwal.medium.com/from-natural-language-to-sql-approaches-and-challenges-in-text2sql-d1252ff86321)
+<br>A Streamlit application that generates Snowflake-compatible SQL from Natural English Language [Code](https://github.com/toashishagarwal/Snowflake-AI) & [Medium post](https://toashishagarwal.medium.com/from-natural-language-to-sql-approaches-and-challenges-in-text2sql-d1252ff86321)
 
 2. **AI- Finetuning**
 <br>A set of working examples that demonstrate the steps involved in finetuning Large Language Models to suit your custom dataset <br>
