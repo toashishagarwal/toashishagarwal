@@ -39,7 +39,7 @@ a) Aggregation of STOCK prices -- This project demonstrates the use of Kafka & S
 b) Automatic calculation of sales per customer as a real time pipeline using Snowflake Dynamic table [Code](https://github.com/toashishagarwal/Snowflake-AI/blob/main/SnowflakeETL_DynamicTables.sql)
 
 5. **Internals of LLMs-Trasnformers**
-This repository contains the basics of writing an LLM transformer. It contains the internals of Self Attention, Causal Attention, Multi Head Attention, etc.
+This repository contains the basics of writing an LLM transformer. It contains the internals of Self Attention, Causal Attention, Multi Head Attention, etc. [Code](https://github.com/toashishagarwal/InsideLLM-Transformers)
 
 6. **Software Architectures** <br>
 This repository is a collection of model architectures for commmon business use cases [Code](https://github.com/toashishagarwal/ArchitectureDiagrams)
