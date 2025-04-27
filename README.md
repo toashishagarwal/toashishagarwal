@@ -38,7 +38,7 @@ b) Customer Segmentation [Code](https://github.com/toashishagarwal/ML-Programs/t
 a) Aggregation of STOCK prices -- This project demonstrates the use of Kafka & Spark to ingest synthetically generated stock price data that goes to Kafka topic & is processed by Spark dataframes [Code](https://github.com/toashishagarwal/demoRealTimePipeline)  <br>
 b) Automatic calculation of sales per customer as a real time pipeline using Snowflake Dynamic table [Code](https://github.com/toashishagarwal/Snowflake-AI/blob/main/SnowflakeETL_DynamicTables.sql)
 
-5. **Internals of LLMs-Trasnformers**
+5. **Internals of LLMs-Transformers**
 This repository contains the basics of writing an LLM transformer. It contains the internals of Self Attention, Causal Attention, Multi Head Attention, etc. [Code](https://github.com/toashishagarwal/InsideLLM-Transformers)
 
 6. **Software Architectures** <br>
