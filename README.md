@@ -21,8 +21,8 @@ Tools: Docker, Kubernetes, Salesforce, Terraform, Git, Maven <br>
 Other: Microservices, RESTful APIs, Distributed Systems
 
 🌱 Featured Projects
-1. **Chatty - AI powered Genie to get SQL queries**
-<br>A Streamlit application that generates Snowflake-compatible SQL from Natural English Language [Code](https://github.com/toashishagarwal/Snowflake-AI) & [Medium post](https://toashishagarwal.medium.com/from-natural-language-to-sql-approaches-and-challenges-in-text2sql-d1252ff86321)
+1. **SQL Genie - AI powered assistant SQL queries**
+<br>A Streamlit application that generates & executes Snowflake-compatible SQL from Natural English Language with high degree of accuracy [Code](https://github.com/toashishagarwal/Snowflake-AI) & [Medium post](https://toashishagarwal.medium.com/from-natural-language-to-sql-approaches-and-challenges-in-text2sql-d1252ff86321)
 
 2. **AI- Finetuning**
 <br>A set of working examples that demonstrate the steps involved in finetuning Large Language Models to suit your custom dataset <br>
