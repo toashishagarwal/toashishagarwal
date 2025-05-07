@@ -52,7 +52,7 @@ This repository is a collection of model architectures for commmon business use 
 
 📫 Connect With Me <br> <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toashishagarwal15) <br>
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://toashishagarwal.medium.com/)
-
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://toashishagarwal.medium.com/) <br>
+![Profile Views](https://komarev.com/ghpvc/?username=toashishagarwal&color=green)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=toashishagarwal&show_icons=true&theme=transparent)
