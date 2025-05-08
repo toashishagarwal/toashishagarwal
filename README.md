@@ -24,10 +24,13 @@ Other: Microservices, RESTful APIs, Distributed Systems
 1. **SQL Genie - AI powered assistant for SQL queries**
 <br>A Streamlit application that generates & executes Snowflake-compatible SQL from Natural English Language with high degree of accuracy [Code](https://github.com/toashishagarwal/Snowflake-AI) & [Medium post](https://toashishagarwal.medium.com/from-natural-language-to-sql-approaches-and-challenges-in-text2sql-d1252ff86321)
 
-2. **AI- Finetuning**
+2. **AI-Finetuning**
 <br>A set of working examples that demonstrate the steps involved in finetuning Large Language Models to suit your custom dataset <br>
 a) How is Fine-tuning done in Snowflake [Code](https://github.com/toashishagarwal/Snowflake-AI/tree/main/3%20Fine%20Tuning%20LLM%20Model) & [Medium post](https://toashishagarwal.medium.com/fine-tune-llm-model-using-snowflake-cortex-practical-use-case-5328a3f9038c) <br>
 b) How to Fine-tune LLM using PyTorch and LoRA algorithm [Code](https://github.com/toashishagarwal/DeepLearningPyTorch/blob/main/DemoFineTuningLLM.ipynb) & [Medium post](https://toashishagarwal.medium.com/how-to-fine-tune-a-llm-using-lora-5fdb6dea11a6)
+
+3. **AI-RAG**
+<br>Retrieval-Augmented Generation (RAG) is a framework that combines information retrieval with generative language models. In simpler terms, it's an approach that helps AI generate more accurate and up-to-date text by incorporating relevant information from external sources. In this tutorial, we use the foundation model from llama (llama2-70b-chat) to query a synthetically generated data about ergonomics. It demonsrates the use of vectors & vector cosine similarity to achieve RAG. The end result is a prioritised list of documents that match the query in descending order of similarity score [Code](https://github.com/toashishagarwal/Snowflake-AI/blob/main/4%20RAG/demoRAG.ipynb)
 
 3. **Machine Learning Algorithms**<br>
 A portfolio of common business problems solved using modern Machine Learning Algorithms <br>
