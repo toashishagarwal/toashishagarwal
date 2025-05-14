@@ -59,7 +59,7 @@ This repository contains the basics of writing an LLM transformer. It contains t
 - Multi Head Attention [Code](https://github.com/toashishagarwal/InsideLLM-Transformers/blob/main/MultiHeadAttention.ipynb)
 - Grouped Attention [Code](https://github.com/toashishagarwal/InsideLLM-Transformers/blob/main/GroupedQueryAttention.ipynb)
 
-7. **Software Architectures** <br>
+6. **Software Architectures** <br>
 This repository is a collection of model architectures for commmon business use cases [Code](https://github.com/toashishagarwal/ArchitectureDiagrams)
 
 🌱 I’m currently learning about Transformers, Attention mechanisms and other internals of LLMs
