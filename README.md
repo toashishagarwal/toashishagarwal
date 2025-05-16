@@ -1,76 +1,118 @@
-## Hi there, I'm Ashish Agarwal 👋
+<h1 align="center">Hi there 👋, I'm Ashish Agarwal</h1>
+<h3 align="center">Software Engineer | Data Engineer | Architect | AI Practitioner </h3>
 
-I am a Software Engineer specializing in Java, Python, Spring Boot, and cloud-native architectures. I'm passionate about building scalable microservices and exploring new technologies.
-I am an experienced data engineer with 21 years of experience who started building softwares for enterprise customers then worked on cloud-native apps. 
+---
 
-🔭 What I Do
+💼 I’m a seasoned software engineer with 21 years of experience building scalable enterprise-grade software systems, microservices, and AI/ML-powered cloud solutions.
 
-1. Enterprise application development using Java, Python, AI and Spring ecosystem <br>
-2. Microservices architecture design and implementation <br>
-3. Cloud-native application development & Data Enginering<br>
-4. Performance optimization, JVM tuning and system design <br>
+🛠️ Core Specialties:
 
-💻 Tech Stack
+- Enterprise Application Development using Java, Python, AI and the Spring ecosystem  
+- Modern Microservices Architecture & Cloud-Native Development  
+- Building resilient Data Pipelines & Real-time Data Engineering  
+- Performance Optimization, JVM Tuning, and Distributed System Design  
 
-Languages: Java, Python, SQL<br>
-Frameworks: Spring Boot <br>
-Databases: Snowflake, MongoDB, MySQL, Redis <br>
-Artificial Intelligence: PyTorch, LLamaIndex, Langchain, Pandas, HuggingFace, VectorDB <br>
-Cloud: AWS, GCP <br>
-Tools: Docker, Kubernetes, Salesforce, Terraform, Git, Maven <br>
-Other: Microservices, RESTful APIs, Distributed Systems
+---
 
-🌱 Featured Projects
-1. **SQL Genie - AI powered assistant for SQL queries**
-<br>A Streamlit application that generates & executes Snowflake-compatible SQL from Natural English Language with high degree of accuracy [Code](https://github.com/toashishagarwal/Snowflake-AI) & [Medium post](https://toashishagarwal.medium.com/from-natural-language-to-sql-approaches-and-challenges-in-text2sql-d1252ff86321)
+📦 Tech Stack
 
-2. **Artificial Intelligence (AI) Techniques**
+| Area              | Technologies                                                                 |
+|-------------------|-------------------------------------------------------------------------------|
+| Languages         | Java, Python, SQL                                                             |
+| Frameworks /Tools | Spring Boot, Salesforce                                                       |
+| Databases         | Snowflake, MongoDB, MySQL, Redis                                              |
+| AI/ML             | PyTorch, LangChain, LLaMAIndex, Pandas, HuggingFace, VectorDB                 |
+| Cloud Platforms   | AWS, GCP                                                                      |
+| Tools & DevOps    | Docker, Kubernetes, Terraform, Git, Maven                                     |
+| Paradigms         | Microservices, REST APIs, Distributed Systems, Cluster Computing              |
 
-- ***A) Finetuning***  
-  A set of working examples that demonstrate the steps involved in finetuning Large Language Models to suit your custom dataset.
-  - How is Fine-tuning done in Snowflake — [Code](https://github.com/toashishagarwal/Snowflake-AI/tree/main/3%20Fine%20Tuning%20LLM%20Model) & [Medium post](https://toashishagarwal.medium.com/fine-tune-llm-model-using-snowflake-cortex-practical-use-case-5328a3f9038c) <br>
-  - How to Fine-tune LLM using PyTorch, PEFT and LoRA algorithm — [Code](https://github.com/toashishagarwal/DeepLearningPyTorch/blob/main/DemoFineTuningLLM.ipynb) & [Medium post](https://toashishagarwal.medium.com/how-to-fine-tune-a-llm-using-lora-5fdb6dea11a6)
+---
 
-- ***B) Retrieval Augmented Generation (RAG)***  
-  RAG is a framework that combines information retrieval with generative language models. In simpler terms, it's an approach that helps AI generate more accurate and up-to-date text by incorporating relevant information from external sources.  
-  In this tutorial, we use the foundation model from LLaMA (llama2-70b-chat) to query a synthetically generated dataset about ergonomics. It demonstrates the use of vectors & vector cosine similarity to achieve RAG in Snowflake.  
-  The end result is a prioritised list of documents that match the query in descending order of similarity score. — [Code](https://github.com/toashishagarwal/Snowflake-AI/blob/main/4%20RAG/demoRAG.ipynb)
+🌟 Featured Projects
 
-- ***C) AI Agent***  
-  A working AI agent developed using Langchain and OpenAI that performs three tasks:
-  - Summarize a given topic
-  - Generate related questions
-  - Identify 5–10 key terms on the topic  
-  The agents are executed in parallel using Langchain's RunnableParallel async functionality. — [Code](https://github.com/toashishagarwal/Langchain/blob/main/agent.py)
+1. SQL Genie – Natural Language to SQL for Snowflake  
+   An AI-powered assistant that generates & executes Snowflake-compatible SQL from natural English — with high semantic accuracy.  
+   👉 [Code](https://github.com/toashishagarwal/Snowflake-AI) | 📖 [Medium Post](https://toashishagarwal.medium.com/from-natural-language-to-sql-approaches-and-challenges-in-text2sql-d1252ff86321)
 
-3. **Machine Learning Algorithms**<br>
-A portfolio of common business problems solved using modern Machine Learning Algorithms <br>
-- Churn Predictor [Code](https://github.com/toashishagarwal/ML-Programs/tree/main/ChurnPredictor) <br>
-- Customer Segmentation [Code](https://github.com/toashishagarwal/ML-Programs/tree/main/CustomerSegmentation)
+2. Artificial Intelligence (AI) Techniques
 
-4. **Real Time Ingestion Pipeline** <br>
-- Aggregation of STOCK prices -- This project demonstrates the use of Kafka & Spark to ingest synthetically generated stock price data that goes to Kafka topic & is processed by Spark dataframes [Code](https://github.com/toashishagarwal/demoRealTimePipeline)  <br>
-- Automatic calculation of sales per customer as a real time pipeline using Snowflake Dynamic table [Code](https://github.com/toashishagarwal/Snowflake-AI/blob/main/SnowflakeETL_DynamicTables.sql)
+   - 🚀 Finetuning LLMs
+     - How to fine-tune with Snowflake Cortex — [Code](https://github.com/toashishagarwal/Snowflake-AI/tree/main/3%20Fine%20Tuning%20LLM%20Model) | [Medium](https://toashishagarwal.medium.com/fine-tune-llm-model-using-snowflake-cortex-practical-use-case-5328a3f9038c)
+     - Fine-tuning via PyTorch + PEFT/LoRA — [Code](https://github.com/toashishagarwal/DeepLearningPyTorch/blob/main/DemoFineTuningLLM.ipynb) | [Medium](https://toashishagarwal.medium.com/how-to-fine-tune-a-llm-using-lora-5fdb6dea11a6)
 
-5. **Internals of LLMs-Transformers** <br>
-This repository contains the basics of writing an LLM transformer. It contains the internals of
-- Self Attention [Code](https://github.com/toashishagarwal/InsideLLM-Transformers/blob/main/SelfAttention.ipynb)
-- Causal Attention [Code](https://github.com/toashishagarwal/InsideLLM-Transformers/blob/main/CausalAttention.ipynb)
-- Multi Head Attention [Code](https://github.com/toashishagarwal/InsideLLM-Transformers/blob/main/MultiHeadAttention.ipynb)
-- Grouped Attention [Code](https://github.com/toashishagarwal/InsideLLM-Transformers/blob/main/GroupedQueryAttention.ipynb)
+   - 🚀 Retrieval Augmented Generation (RAG)  
+     RAG demo using LLaMA-2 (70B Chat) on a synthetic Ergonomics dataset using vector search & cosine similarity  
+     👉 [Code](https://github.com/toashishagarwal/Snowflake-AI/blob/main/4%20RAG/demoRAG.ipynb)
 
-6. **Software Architectures** <br>
-This repository is a collection of model architectures for commmon business use cases [Code](https://github.com/toashishagarwal/ArchitectureDiagrams)
+   - 🚀 AI Agent using Langchain & OpenAI  
+     A multi-tasking agent that performs:
+     - Topic Summarization  
+     - Question Generation  
+     - Key Term Extraction  
+     Executed in parallel using Langchain’s RunnableParallel feature
+     👉 [Code](https://github.com/toashishagarwal/Langchain/blob/main/agent.py)
 
-🌱 I’m currently learning about Transformers, Attention mechanisms and other internals of LLMs
+3. Machine Learning Algorithms  
+   Real-world business problems solved using modern ML techniques:
+   - Churn Prediction — [Code](https://github.com/toashishagarwal/ML-Programs/tree/main/ChurnPredictor)  
+   - Customer Segmentation — [Code](https://github.com/toashishagarwal/ML-Programs/tree/main/CustomerSegmentation)
 
-👯 I’m looking to collaborate on Data engineering & AI projects, consultancy/freelancing work, part-time CTO opportunities
+4. Real-Time Ingestion Pipeline
+   - Kafka + Spark for real-time stock price streaming — [Code](https://github.com/toashishagarwal/demoRealTimePipeline)
+   - Sales per customer using Snowflake Dynamic Tables — [Code](https://github.com/toashishagarwal/Snowflake-AI/blob/main/SnowflakeETL_DynamicTables.sql)
 
-💬 Ask me about Vector Databases, RAG, Apache NiFi, Apache Kafka, Apache Iceberg, Cloud Native Data, Spark, Snowflake, LLMs
+5. Internals of LLMs & Transformers  
+   From scratch implementations of:
+   - Self-Attention — [Code](https://github.com/toashishagarwal/InsideLLM-Transformers/blob/main/SelfAttention.ipynb)  
+   - Causal Attention — [Code](https://github.com/toashishagarwal/InsideLLM-Transformers/blob/main/CausalAttention.ipynb)  
+   - Multi-Head Attention — [Code](https://github.com/toashishagarwal/InsideLLM-Transformers/blob/main/MultiHeadAttention.ipynb)  
+   - Grouped Query Attention — [Code](https://github.com/toashishagarwal/InsideLLM-Transformers/blob/main/GroupedQueryAttention.ipynb)  
 
-📫 Connect With Me <br> <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toashishagarwal15) <br>
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://toashishagarwal.medium.com/) <br>
+6. Software Architectures
+   A curated repo of architecture diagrams and tech blueprints for enterprise use cases  
+   👉 [Code](https://github.com/toashishagarwal/ArchitectureDiagrams)
+
+---
+
+🧩 Currently Exploring:
+
+- Transformer internals  
+- Attention mechanisms  
+- Vector databases & embedding techniques  
+- Real-world integrations of LLMs with modern data stacks
+
+---
+
+🤝 Let’s Collaborate!
+
+I’m open to:
+
+- Freelance/Consulting roles in the AI/MLOps/Data Engineering space  
+- 🚀 Collaborations on impactful open-source projects  
+- Fractional/Part-time CTO roles
+
+🧵 Ask Me About:
+
+Vector Databases · RAG · Apache Kafka · Apache Iceberg · Streamlit · Apache NiFi · Cloud Data Platforms · Snowflake · Apache Spark · LLMs
+
+---
+
+📫 Connect With Me
+
+<a href="https://www.linkedin.com/in/toashishagarwal15">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+</a> &nbsp;
+
+<a href="https://toashishagarwal.medium.com/">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" />
+</a>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=toashishagarwal&color=green)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=toashishagarwal&show_icons=true&theme=transparent)
+---
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=toashishagarwal&show_icons=true&theme=transparent" />
+</p>
