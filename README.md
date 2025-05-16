@@ -77,9 +77,7 @@
 🧩 Currently Exploring:
 
 - Transformer internals  
-- Attention mechanisms  
-- Vector databases & embedding techniques  
-- Real-world integrations of LLMs with modern data stacks
+- Attention mechanisms
 
 ---
 
@@ -88,7 +86,7 @@
 I’m open to:
 
 - Freelance/Consulting roles in the AI/MLOps/Data Engineering space  
-- 🚀 Collaborations on impactful open-source projects  
+- Collaborations on impactful open-source projects  
 - Fractional/Part-time CTO roles
 
 🧵 Ask Me About:
