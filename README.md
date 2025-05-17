@@ -71,7 +71,7 @@
 
 🌟 Featured Projects
 
-1. SQL Genie – Natural Language to SQL for Snowflake  
+1. **SQL Genie** – Natural Language to SQL for Snowflake  
    An AI-powered assistant that generates & executes Snowflake-compatible SQL from natural English — with high semantic accuracy.  
    👉 [Code](https://github.com/toashishagarwal/Snowflake-AI) | 📖 [Medium Post](https://toashishagarwal.medium.com/from-natural-language-to-sql-approaches-and-challenges-in-text2sql-d1252ff86321)
 
@@ -81,9 +81,12 @@
      - How to fine-tune with Snowflake Cortex — [Code](https://github.com/toashishagarwal/Snowflake-AI/tree/main/3%20Fine%20Tuning%20LLM%20Model) | [Medium](https://toashishagarwal.medium.com/fine-tune-llm-model-using-snowflake-cortex-practical-use-case-5328a3f9038c)
      - Fine-tuning via PyTorch + PEFT/LoRA — [Code](https://github.com/toashishagarwal/DeepLearningPyTorch/blob/main/DemoFineTuningLLM.ipynb) | [Medium](https://toashishagarwal.medium.com/how-to-fine-tune-a-llm-using-lora-5fdb6dea11a6)
 
-   - 🚀 Retrieval Augmented Generation (RAG)  
-     RAG demo using LLaMA-2 (70B Chat) on a synthetic Ergonomics dataset using vector search & cosine similarity  
-     👉 [Code](https://github.com/toashishagarwal/Snowflake-AI/blob/main/4%20RAG/demoRAG.ipynb)
+   - 🚀 Retrieval Augmented Generation (RAG)
+     - **AxLens** - AxLens is an AI-powered Streamlit chat application that queries curated news from the aesthetics industry to provide meaningful insights. By using PDFs created from crawled web pages, and leveraging Snowflake’s scalable data infrastructure with state-of-the-art vector embeddings, AxLens enables users to ask natural language questions and receive relevant, intelligent responses — instantly
+ 👉 [Code](https://github.com/toashishagarwal/Snowflake-AI/tree/main/5%20AxLens)
+     - RAG demo using LLaMA-2 (70B Chat) on a synthetic Ergonomics dataset using vector search & cosine similarity  
+     👉 [Code](https://github.com/toashishagarwal/Snowflake-AI/blob/main/4%20RAG/demoRAG.ipynb)    
+     
 
    - 🚀 AI Agent using Langchain & OpenAI  
      A multi-tasking agent that performs:
