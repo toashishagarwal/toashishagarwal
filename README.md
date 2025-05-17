@@ -84,6 +84,7 @@
    - 🚀 Retrieval Augmented Generation (RAG)
      - **AxLens** - AxLens is an AI-powered Streamlit chat application that queries curated news from the aesthetics industry to provide meaningful insights. By using PDFs created from crawled web pages, and leveraging Snowflake’s scalable data infrastructure with state-of-the-art vector embeddings, AxLens enables users to ask natural language questions and receive relevant, intelligent responses — instantly
  👉 [Code](https://github.com/toashishagarwal/Snowflake-AI/tree/main/5%20AxLens)
+     - **PlotMatic** - AI-Driven Chart Generation with CSV & Plotly  👉 [Code](https://github.com/toashishagarwal/ChartsLLM)
      - RAG demo using LLaMA-2 (70B Chat) on a synthetic Ergonomics dataset using vector search & cosine similarity  
      👉 [Code](https://github.com/toashishagarwal/Snowflake-AI/blob/main/4%20RAG/demoRAG.ipynb)    
      
