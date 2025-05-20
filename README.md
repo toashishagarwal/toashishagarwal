@@ -77,25 +77,15 @@
 
 2. Artificial Intelligence (AI) Techniques
 
-   - 🚀 Finetuning LLMs
-     - How to fine-tune with Snowflake Cortex — [Code](https://github.com/toashishagarwal/Snowflake-AI/tree/main/3%20Fine%20Tuning%20LLM%20Model) | [Medium](https://toashishagarwal.medium.com/fine-tune-llm-model-using-snowflake-cortex-practical-use-case-5328a3f9038c)
-     - Fine-tuning via PyTorch + PEFT/LoRA — [Code](https://github.com/toashishagarwal/DeepLearningPyTorch/blob/main/DemoFineTuningLLM.ipynb) | [Medium](https://toashishagarwal.medium.com/how-to-fine-tune-a-llm-using-lora-5fdb6dea11a6)
-
-   - 🚀 Retrieval Augmented Generation (RAG)
-     - **AxLens** - AxLens is an AI-powered Streamlit chat application that queries curated news from the aesthetics industry to provide meaningful insights. By using PDFs created from crawled web pages, and leveraging Snowflake’s scalable data infrastructure with state-of-the-art vector embeddings, AxLens enables users to ask natural language questions and receive relevant, intelligent responses — instantly
- 👉 [Code](https://github.com/toashishagarwal/Snowflake-AI/tree/main/5%20AxLens)
-     - **PlotMatic** - AI-Driven Chart Generation with CSV & Plotly  👉 [Code](https://github.com/toashishagarwal/ChartsLLM)
-     - RAG demo using LLaMA-2 (70B Chat) on a synthetic Ergonomics dataset using vector search & cosine similarity  
-     👉 [Code](https://github.com/toashishagarwal/Snowflake-AI/blob/main/4%20RAG/demoRAG.ipynb)    
-     
-
-   - 🚀 AI Agent using Langchain & OpenAI  
-     A multi-tasking agent that performs:
-     - Topic Summarization  
-     - Question Generation  
-     - Key Term Extraction  
-     Executed in parallel using Langchain’s RunnableParallel feature
-     👉 [Code](https://github.com/toashishagarwal/Langchain/blob/main/agent.py)
+| **Area** | **Project**       | **Description**                                   | **Code**                         | **Medium**                                     |
+|----------|---------|---------------------------------------------------|----------------------------------|------------------------------------------------|
+| Finetuning LLM | Snowflake example| How to fine-tune LLM in Snowflake using Cortex     | [Code](https://github.com/toashishagarwal/Snowflake-AI/tree/main/3%20Fine%20Tuning%20LLM%20Model) | [Blog](https://toashishagarwal.medium.com/fine-tune-llm-model-using-snowflake-cortex-practical-use-case-5328a3f9038c) |
+| Finetuning LLM  |     PyTorch example     | How to fine-tune LLM via PyTorch + PEFT/LoRA                    | [Code](https://github.com/toashishagarwal/DeepLearningPyTorch/blob/main/DemoFineTuningLLM.ipynb) | [Blog](https://toashishagarwal.medium.com/how-to-fine-tune-a-llm-using-lora-5fdb6dea11a6)         |
+| RAG | AxLens | AI-powered streamlit chat application that queries curated news from the aesthetics industry to provide meaningful insights. By using PDFs created from crawled web pages, and leveraging Snowflake’s scalable data infrastructure with state-of-the-art vector embeddings, AxLens enables users to ask natural language questions and receive relevant, intelligent responses — instantly      | [Code](https://github.com/toashishagarwal/Snowflake-AI/tree/main/5%20AxLens)       | Not Available (NA) |
+| RAG | PlotMatic   | AI-Driven Chart Generation with CSV & Plotly         | [Code](https://github.com/toashishagarwal/ChartsLLM) | NA |  
+| RAG | Snowflake example   | RAG demo using LLaMA-2 (70B Chat) on a synthetic Ergonomics dataset using vector search & cosine similarity  | [Code](https://github.com/toashishagarwal/Snowflake-AI/blob/main/4%20RAG/demoRAG.ipynb)  | NA |  
+| AI bot | AniMAGIC   | Describe your animation idea in natural language, and AniMAGIC will interpret your intent, generate Python code using Manim, render the animation, and display the mp4 output         | [Code](https://github.com/toashishagarwal/AniMAGIC)| NA | 
+|  AI Agent  | LangChain Example| A multi-tasking agent that performs-Topic Summarization, Question Generation, Key Term Extraction using Langchain      | [Code](https://github.com/toashishagarwal/Langchain/blob/main/agent.py) | NA | 
 
 3. Machine Learning Algorithms  
    Real-world business problems solved using modern ML techniques:
@@ -113,7 +103,7 @@
    - Multi-Head Attention — [Code](https://github.com/toashishagarwal/InsideLLM-Transformers/blob/main/MultiHeadAttention.ipynb)  
    - Grouped Query Attention — [Code](https://github.com/toashishagarwal/InsideLLM-Transformers/blob/main/GroupedQueryAttention.ipynb)  
 
-6. Software Architectures
+6. Software Architectures <br>
    A curated repo of architecture diagrams and tech blueprints for enterprise use cases  
    👉 [Code](https://github.com/toashishagarwal/ArchitectureDiagrams)
 
