@@ -86,6 +86,7 @@
 | RAG | Snowflake example   | RAG demo using LLaMA-2 (70B Chat) on a synthetic Ergonomics dataset using vector search & cosine similarity  | [Code](https://github.com/toashishagarwal/Snowflake-AI/blob/main/4%20RAG/demoRAG.ipynb)  | NA |  
 | AI bot | AniMAGIC   | Describe your animation idea in natural language, and AniMAGIC will interpret your intent, generate Python code using Manim, render the animation, and display the mp4 output         | [Code](https://github.com/toashishagarwal/AniMAGIC)| NA | 
 |  AI Agent  | LangChain Example| A multi-tasking agent that performs-Topic Summarization, Question Generation, Key Term Extraction using Langchain      | [Code](https://github.com/toashishagarwal/Langchain/blob/main/agent.py) | NA | 
+|  AI Voice Agent  | TalkTonic| a sleek, modern AI voice assistant that combines the power of OpenAI's language models with an intuitive, beautiful user interface. Talk or type your questions and get intelligent responses through both text and speech      | [Code](https://github.com/toashishagarwal/TalkTonic) | NA | 
 
 3. Machine Learning Algorithms  
    Real-world business problems solved using modern ML techniques:
